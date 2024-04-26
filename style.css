@@ -1,0 +1,18 @@
+#results {
+    display: none;
+}
+
+.heading.display-5.pb-3 {
+    color: lightskyblue;
+}
+
+h1,
+h5,
+.pt-4 {
+    color: lightskyblue;
+}
+
+span.input-group-addon {
+    background-color: lightskyblue;
+    color: white;
+}
